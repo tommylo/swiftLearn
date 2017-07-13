@@ -669,7 +669,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.wangsen.SwiftLearn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/panhongliu/Desktop/Moya+RxSwift/SwiftLearn/Tool/SwiftLearn-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "Tool/SwiftLearn-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -685,7 +685,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.wangsen.SwiftLearn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/panhongliu/Desktop/Moya+RxSwift/SwiftLearn/Tool/SwiftLearn-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "Tool/SwiftLearn-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
